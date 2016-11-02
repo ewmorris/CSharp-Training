@@ -1,0 +1,2 @@
+C:\ProjectsTraining\Git\ConsoleLesson1\ConsoleLesson1\bin\Debug\ConsoleLesson1.exe.config
+C:\ProjectsTraining\Git\CSharp-Training\ConsoleLesson1\ConsoleLesson1\bin\Debug\ConsoleLesson1.exe.config
